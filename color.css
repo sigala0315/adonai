@@ -22,11 +22,14 @@ width:100%;
 height:70%;
 float:left;
 background-color:darkolivegreen;
-background-image:url(https://www.xtrafondos.com/wallpaper/5120x2880/10368-chica-anime-con-ojos-morados-cyberpunk.html);
+
 }
 
 footer{
 width:100%;
 height:20%;
 float:left;
+}
+html{
+background-image:url(https://www.xtrafondos.com/wallpaper/5120x2880/10368-chica-anime-con-ojos-morados-cyberpunk.html);
 }
