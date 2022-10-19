@@ -1,4 +1,4 @@
-ININSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('Antigua y Barbuda', 'Saint John','440 km² km²','9.340.314 personas','Inglés','Dólar del Caribe Oriental');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('Antigua y Barbuda', 'Saint John','440 km² km²','9.340.314 personas','Inglés','Dólar del Caribe Oriental');
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República Argentina', 'Buenos Aires','440 km²','45.808.747 personas','español','Peso argentino');
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('The Commonwealth of the Bahamas', 'Nasáu','13.880 km²','396.914 personas','Inglés','Dólar bahameño');
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República de Barbados', 'Bridgetown','430 km²',' 284 996 personas','Inglés','Dólar de Barbados');
@@ -13,3 +13,8 @@ INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moned
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('Mancomunidad de Dominica', 'Roseau','750 km²','72.172 personas','Inglés','Dólar del Caribe Oriental');
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República del Ecuador', 'Quito','283.560 km²','17.888.474 personas','español','Dólar estadounidense');
 INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República de El Salvador', 'San Salvador','21.041 km²','6.518.500 personas','español','Colón');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('The United States of America', 'Washington D. C.','9,834 millones km²','332.183.000 personas','ingles','Dólar estadounidense');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('Grenada', 'Granada ','88,02 km²','113.015 personas','Inglés','Dólar del Caribe Oriental');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República de Guatemala', 'La Ciudad de Guatemala','108.889 km²','17.4 millones de personas','español','Quetzal');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República Cooperativa de Guyana', 'Georgetown','214.969 km²','790.329 personas','Inglés','Dólar guyanés');
+INSERT INTO America (Nombre_oficial, Capital, Superficie, Poblacion,Idioma,Moneda) VALUES ('República de Haití ', 'Puerto Príncipe','27.750 km²','11.541.683 personas','francés,criollo haitiano','Gourde');
