@@ -13,5 +13,5 @@
    values('$Nombrep','$Capi','$Superficie','$Poblacion','$Idioma','$Moneda')";
 
    $envio=mysqli_query($con,$sql);
-
+   header("Location: index.html"); 
 ?>
