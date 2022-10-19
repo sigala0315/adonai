@@ -1,22 +1,16 @@
 <?php
-    require_once('bonbones.php');
+    require_once('America2.php');
     error_reporting(0);
 
-   $Nombrep=$_Post['Nombre'];
-   $Capi=$_Post['Capital'];
-   $Superficie=$_Post['Superf'];
-   $Poblacion=$_Post['Poblac'];
-   $Idioma=$_Post['Idiota'];
-   $Moneda=$_Post['Peje'];
-
-   echo($Nombrep.'<br>');
-   echo($Capi.'<br>');
-   echo($Superficie.'<br>');
-   echo($Poblacion.'<br>');
-   echo($Idioma.'<br>');
-   echo($Moneda.'<br>');
+   $Nombrep=$_POST['Nombre'];
+   $Capi=$_POST['Capital'];
+   $Superficie=$_POST['Superf'];
+   $Poblacion=$_POST['Poblac'];
+   $Idioma=$_POST['Idiota'];
+   $Moneda=$_POST['Peje'];
     
-   $sql=insert into america (Nombre_oficial,Capital,Superficie,Poblacion,Idioma,Moneda);
+   $sql="insert into america (Nombre_oficial,Capital,Superficie,Poblacion,Idioma,Moneda)
+   values('$Nombrep','$Capi','$Superficie','$Poblacion','$Idioma','$Moneda')";
 
    $envio=mysqli_query($con,$sql);
 
