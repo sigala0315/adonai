@@ -15,5 +15,9 @@
    echo($Poblacion.'<br>');
    echo($Idioma.'<br>');
    echo($Moneda.'<br>');
+    
+   $sql=insert into america (Nombre_oficial,Capital,Superficie,Poblacion,Idioma,Moneda);
+
+   $envio=mysqli_query($con,$sql);
 
 ?>

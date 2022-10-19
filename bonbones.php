@@ -4,7 +4,7 @@
     if(!$con){
         echo('<p>tu conexion falla</p>');
     }else{
-        echo('<p>tu conexion es exitosa</p>');
+        echo('<p>tu conexion es exitosa</p>'); 
     }
 
 ?>
